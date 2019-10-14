@@ -1,6 +1,6 @@
 {
-  "name": "sequelize-auto",
-  "version": "0.4.29",
+  "name": "sequelize-auto-egg",
+  "version": "0.1.0",
   "description": "Automatically generate bare sequelize models from your database.",
   "main": "index",
   "keywords": [
@@ -11,14 +11,14 @@
     "mapper"
   ],
   "bin": {
-    "sequelize-auto": "bin/sequelize-auto"
+    "sequelize-auto-egg": "bin/sequelize-auto"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sequelize/sequelize-auto.git"
+    "url": "https://github.com/jovercao/sequelize-auto-egg.git"
   },
   "bugs": {
-    "url": "https://github.com/sequelize/sequelize-auto/issues"
+    "url": "https://github.com/jovercao/sequelize-auto-egg/issues"
   },
   "nyc": {
     "exclude": [
